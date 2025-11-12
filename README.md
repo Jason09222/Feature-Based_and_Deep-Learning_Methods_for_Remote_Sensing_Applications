@@ -1,4 +1,7 @@
 # COMP9517 Group Project 
+
+## More details can be found in [9517_modify.pdf](https://github.com/user-attachments/files/23493263/9517_modify.pdf)
+
 This project uses the ​**Skyview Multi-Landscape Aerial Imagery Dataset** ([available on Kaggle](https://www.kaggle.com/datasets/ankit1743/skyview-an-aerial-landscape-dataset/data)), which contains aerial images of diverse landscapes. For classification, we implemented ​**2 traditional machine learning methods**  and ​**3 deep learning approaches** , leveraging both feature engineering and end-to-end training strategies.
 
 
